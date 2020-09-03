@@ -98,4 +98,6 @@ module "db" {
       ]
     },
   ]
+
+  publicly_accessible = true
 }
